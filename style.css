@@ -1,9 +1,9 @@
 body{
     background-image: url(BuckleUpBaby.gif);
 }
-#header{
+/* #header{
     position:fixed;
-}
+} */
 header,footer{
     background-color: grey;
     padding-left:50px;
